@@ -2,41 +2,41 @@
   "TypeofRice": [
     {
       "name": "Basumati",
-      "weight": "2kg",
+      "weight": "2",
       "price": "120"
     },
     {
       "name": "bullet",
-      "weight": "6kg",
+      "weight": "6",
       "price": "180"
     }
   ],
   "TypeofPules": [
     {
       "name": "Greengarm",
-      "weight": "12kg",
+      "weight": "12",
       "price": "180"
     },
     {
       "name": "Hoursegram",
-      "weight": "17kg",
+      "weight": "17",
       "price": "190"
     },
     {
       "name": "Blackgram",
-      "weight": "17kg",
+      "weight": "17",
       "price": "165"
     }
   ],
    "TypeofWheats": [
       {
         "name": "Wheat1",
-        "weight": "24kg",
+        "weight": "24",
         "price": "70"
       },
       {
         "name": "wheat2",
-        "weight": "12kg",
+        "weight": "12",
         "price":  "80"
       }
 
